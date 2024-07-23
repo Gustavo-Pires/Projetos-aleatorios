@@ -8,4 +8,4 @@ def compress_video(input_path, output_path):
 input_path = "/Users/Gustavo/Desktop/Video apresentacao.mp4"
 output_path = "/Users/Gustavo/Desktop/Compressed Video.mp4"
 
-compress_video(input_path, output_path)
+compress_video(input_path, output_path) 
